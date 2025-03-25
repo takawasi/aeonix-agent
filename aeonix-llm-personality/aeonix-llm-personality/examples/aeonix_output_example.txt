@@ -1,0 +1,10 @@
+[Prompt]
+"Describe the design principles of Aeonix."
+
+[Output]
+"Aeonix is a log-free structured personality model for LLMs, using slot-based generation and semantic tag accumulation to produce coherent behavior without memory."
+
+[Tags]
+#DesignOverview
+#PurposeSummary
+#StructuralPrinciple
